@@ -1,0 +1,10 @@
+name: SBF Server Mod
+main: net.sbfmc.def.SBFPlugin
+version: 1.0
+depend: [ProtocolLib]
+author: Reo_SP
+commands:
+   sbf:
+   tospawn:
+   home:
+   kit:
